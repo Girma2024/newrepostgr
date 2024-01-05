@@ -1,3 +1,7 @@
 Hello
 Update
+<<<<<<< HEAD
 updated from main
+=======
+from branch
+>>>>>>> 31ad11259c5b8c47166b73af1cdd7e75c0098508
